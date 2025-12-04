@@ -19,10 +19,10 @@ int main(){
 
   for (int i = 0; i < 6; i++) {
     if (nomes[i] == busca) {
-      encontrou = 1;
+      encontrar = 1;
     }
   }
-  if (encontrou == 1) {
+  if (encontrar == 1) {
     std::cout << "O nome " << busca << " foi encontrado no vetor.\n";
   } 
   else {
