@@ -3,7 +3,7 @@
 	Peça ao usuário para digitar os valores
 	Exiba todos os valores digitados*/
 #include <iostream>
-int main{
+int main(){
 	int num[5];
 	std::cout<<"Digite 5 números inteiros:"<<std::endl;
 	for(int r=0; r<5; r++){
