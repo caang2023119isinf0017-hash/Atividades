@@ -3,7 +3,7 @@
 	Em qual posição ele aparece pela primeira vez.*/
 	
 #include <iostream>
-int main{
+int main(){
 	int num[10];
 	for(int r=0; r<10; r++){
 		std::cout<<r+1<<"º número:";
