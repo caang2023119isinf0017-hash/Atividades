@@ -5,7 +5,7 @@
 	
 #include <iostream>
 #include <string>
-int main{
+int main(){
   std::string nomes[6];
   std::cout << "Digite 6 nomes: "<<std::endl;
   for (int i = 0; i < 6; i++) {
